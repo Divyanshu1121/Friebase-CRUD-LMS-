@@ -66,8 +66,8 @@ src/
 1. **Clone the Repository**
 
 ```
-git clone https://github.com/your-username/leave-management-system.git
-cd leave-management-system
+git clone https://github.com/Divyanshu1121/Friebase-CRUD-LMS-.git
+cd Friebase-CRUD-LMS-
 ```
 
 2. **Install Dependencies**
